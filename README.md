@@ -1,1 +1,2 @@
-# mmc6278-10-10-buteau-nayllah
+# Module 10 Assignment:
+Write automated tests to validate the functionality of a server application
